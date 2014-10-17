@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nsf:home|Door43 (nsf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nsf|d43-nsf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nsf/archive/master.zip|d43-nsf.zip]]
+
+**Recent Changes**
+{{changes>ns = nsf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nsf|Ethnologue data]]
+
